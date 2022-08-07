@@ -1,4 +1,4 @@
-# Hi, there I'm Stanislav 👋
+# Hi there, I'm Stanislav 👋
 Ama middle data scientist with more than 2 years of commertial experience. I have pretty-well knowledge in math analysis and game theory 🧐
 
 * I am currently studyind at HSE Faculty of Computer Science 🤓
