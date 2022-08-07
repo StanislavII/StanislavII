@@ -21,6 +21,11 @@ I don't have a lot open-source projects, but... Ill try my best ✌️
 </p>
 
 <p align='center'>
+   <a href="https://t.me/stas1kstas1k">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   
+<p align='center'>
    📫 How to reach me: <a href='mailto:StasIlyushin@mail.ru'>StasIlyushin@mail.ru</a>
 </p>
 
