@@ -10,7 +10,7 @@ As touching technical development, started with development of a credit risk mod
 * Documents visual objets detection
 * Receipts attribute matching
 
-I don't have a lot open-source projects, but... Ill try my best ✌️
+I don't have a lot open-source projects, but.... Ill try my best ✌️
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&count_private=true"><img
