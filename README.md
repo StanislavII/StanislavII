@@ -20,6 +20,8 @@ I don't have a lot open-source projects, but.... Ill try my best ✌️
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&layout=compact"/></a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavII)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align='center'>
    <a href="https://t.me/stas1kstas1k">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
