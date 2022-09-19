@@ -47,7 +47,7 @@ I don't have a lot open-source projects, but.... Ill try my best ✌️
 
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/StanislavII/github-profile-views-counter">
+   <a href="https://github.com/StanislavII/views-counter">
        <img width="175px" src="https://github.com/StanislavII/views-counter">
    </a>
 </div>
