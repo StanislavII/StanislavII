@@ -15,7 +15,7 @@ I don't have a lot open-source projects, but.... Ill try my best ✌️
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&count_private=true"/></a>
+           src="https://github.com/anuraghazra/github-readme-stats"/></a>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=8"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=8"/></a>
 </p>
