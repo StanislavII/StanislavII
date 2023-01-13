@@ -20,6 +20,7 @@ I don't have a lot open-source projects, but.... Ill try my best ✌️
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=8"/></a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <p align='center'>
    <a href="https://t.me/stas1kstas1k">
