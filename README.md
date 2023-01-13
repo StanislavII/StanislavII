@@ -17,8 +17,11 @@ I don't have a lot open-source projects, but.... Ill try my best ✌️
     <a href="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave&locale=ru">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave&locale=ru" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5&locale=ru">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5&locale=ru" />
+</p>
+
+<p align = 'center'>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5" />
     </a>
 </p>
 
