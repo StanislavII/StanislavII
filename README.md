@@ -21,8 +21,8 @@ I don't have a lot open-source projects, but.... Ill try my best ✌️
 <a href="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5" />
 </a>
 
 
