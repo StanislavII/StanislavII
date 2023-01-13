@@ -13,6 +13,8 @@ As touching technical development, started with development of a credit risk mod
 I don't have a lot open-source projects, but.... Ill try my best ✌️
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=transparent)
+
+
 ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5)
 
 <p align='center'>
