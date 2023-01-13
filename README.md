@@ -12,15 +12,8 @@ As touching technical development, started with development of a credit risk mod
 
 I don't have a lot open-source projects, but.... Ill try my best ✌️
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&count_private=true"/></a>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=8"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=8"/></a>
-</p>
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=transparent)
+![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavII&show_icons=true&langs_count=5)
 
 <p align='center'>
    <a href="https://t.me/stas1kstas1k">
