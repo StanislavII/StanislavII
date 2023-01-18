@@ -14,8 +14,8 @@ I don't have a lot open-source projects, but.... Ill try my best ✌️
 
 
 <p align='center'>
-    <a href="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave&locale=ru">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave&locale=ru" />
+    <a href="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave&locale=en">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=StanislavII&show_icons=true&theme=synthwave&locale=en" />
     </a>
 </p>
 
